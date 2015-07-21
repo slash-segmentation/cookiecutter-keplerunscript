@@ -3,6 +3,8 @@
 
 {{cookiecutter.project_name}}
 
+{{cookiecutter.project_short_description}}
+
 Requirements
 ============
 
@@ -11,7 +13,7 @@ Requires [Kepler 2.4 or higher][1] updated with latest modules
 Building
 ========
 
-None required, simply load **src/workflow.kar** via [Kepler][1]
+None required, simply load **src/{{cookiecutter.repo_name}}.kar** via [Kepler][1]
 
 Testing
 =======
