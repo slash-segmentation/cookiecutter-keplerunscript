@@ -912,7 +912,7 @@
     </property>
     <property name="anchor" class="ptolemy.data.expr.StringParameter" value="northwest">
     </property>
-    <property name="text" class="ptolemy.kernel.util.StringAttribute" value="Christopher Churas">
+    <property name="text" class="ptolemy.kernel.util.StringAttribute" value="{{cookiecutter.full_name}}">
         <property name="_style" class="ptolemy.actor.gui.style.TextStyle">
             <property name="height" class="ptolemy.data.expr.Parameter" value="15">
             </property>
